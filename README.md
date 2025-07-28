@@ -31,7 +31,7 @@ This project demonstrates clean UI design and React component structure across t
 
 ### 🔹 Task 3: `<UserCard />` Component
 - Reusable component that accepts `name` and `email` as props
-- Card-style layout with profile initials and dark theme styling
+- Card-style layout with dark theme styling
 
 ---
 
@@ -41,8 +41,8 @@ This project demonstrates clean UI design and React component structure across t
 ![Sign-Up Screenshot](./frontend/screenshots/Signup.png)
 
 ### 🖼️ Navbar (Desktop and Mobile) and UserCard Component
-![Navbar Screenshot](./frontend/frontend/Navbar_UserCard.png)
-![NavbarMobile Screenshot](./frontend/frontend/NavbarMobile.png)
+![Navbar Screenshot](./frontend/screenshots/Navbar_UserCard.png)
+![NavbarMobile Screenshot](./frontend/screenshots/NavbarMobile.png)
 
 ---
 
