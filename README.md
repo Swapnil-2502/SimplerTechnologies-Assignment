@@ -19,9 +19,7 @@ This project demonstrates clean UI design and React component structure across t
 - Fully styled sign-up form with:
   - Full Name
   - Email
-  - Country (dropdown)
   - Password
-- Form validation and responsive layout
 - OAuth-style login buttons (Google, Apple)
 
 ### 🔹 Task 2: Responsive Navigation Bar
