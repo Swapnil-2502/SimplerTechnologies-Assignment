@@ -3,6 +3,7 @@
 A simple, responsive React application built with Vite and styled using Tailwind CSS.  
 This project demonstrates clean UI design and React component structure across three core tasks.
 
+[![Live on Vercel](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://simpler-technologies-assignment-mu.vercel.app/)
 ---
 
 ## 🛠 Tech Stack
