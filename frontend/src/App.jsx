@@ -1,13 +1,14 @@
 import './App.css'
+import SignUp from './components/Signup'
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
-
-
+  
   return (
    <>
-      <div className='text-7xl'>
-        Hello from APpp
-      </div>
+      <Routes>
+        <Route path="/signup" element={<SignUp />} />
+      </Routes>
    </>
   )
 }
